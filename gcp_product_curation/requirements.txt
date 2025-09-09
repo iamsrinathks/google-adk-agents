@@ -1,0 +1,13 @@
+# requirements.txt
+httpx
+beautifulsoup4
+mcp
+pg8000
+google-cloud-alloydb-connector[pg8000]
+pgvector
+google-adk
+fastapi
+gunicorn
+pydantic
+psycopg2-binary
+requests
